@@ -1,0 +1,16 @@
+server:
+  port: 8081
+
+#spring:
+#  datasource:
+#    url: jdbc:postgresql://192.168.12.190:5432/base_1?rewriteBatchedStatements=true
+#    username: base
+#    password: akuan
+#    driver-class-name: org.postgresql.Driver
+#  jpa:
+#    properties:
+#      hibernate:
+#        batch_size: 20
+#        order_inserts: true
+#        order_updates: true
+#        generate_statistics: true
